@@ -1,0 +1,5 @@
+.env
+package-lock.json
+node_modules/
+old_bot_attempt/
+archive/
